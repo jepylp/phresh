@@ -11,3 +11,4 @@ async def get_all_cleanings() -> List[dict]:
   ]
 
   return cleanings
+  
