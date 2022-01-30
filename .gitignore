@@ -3,3 +3,6 @@ __pycache__/
 
 # Enviroment files
 .env
+
+# Notes
+notes.odt
